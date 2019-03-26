@@ -2,6 +2,7 @@ import numpy as np
 import string
 from itertools import *
 
+
 key = [0, 0, 0, 0]
 ct = 'thisisplaceholder'
 
